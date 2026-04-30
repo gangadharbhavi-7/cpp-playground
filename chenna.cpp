@@ -5,4 +5,4 @@ int main(){
 return 0;
 }
 snake.manja(
-shiva and Shakti 
+shiva and Shakti }
