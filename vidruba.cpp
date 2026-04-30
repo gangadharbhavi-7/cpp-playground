@@ -6,4 +6,4 @@ int main()
 return 0;
 }
 snake.manja()
-jk
+jksfer
