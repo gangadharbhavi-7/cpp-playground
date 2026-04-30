@@ -5,4 +5,4 @@ int main(){
 cout<<name<<endl;
 }
 snake.manja()
-jk
+jk.mango
